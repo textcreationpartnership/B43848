@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roger and Mary, or, The loving couple in a great engagement Rogers true love to his Mary did not in the least miscarry : he souldier-like besieg'd and enter'd, and had the prize for which he ventur'd : tune of, Moggies Jealousie.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43848</idno><idno type="EEBO-CITATION">767839752</idno>
+  <idno type="VID">212299</idno>
+  <idno type="EEBO-PROQUEST">2240865546</idno>
+  
+            <idno type="OCLC"> 767839752</idno>
+            <idno type="OCLC">ocn 767839752</idno>
+            <idno type="STC">Wing R1791</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212299)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3012:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Roger and Mary, or, The loving couple in a great engagement Rogers true love to his Mary did not in the least miscarry : he souldier-like besieg'd and enter'd, and had the prize for which he ventur'd : tune of, Moggies Jealousie.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Golden Ball in Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[between 1672 and 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>First line: As Roger and Mary were toyling.</note>
+                  <note>Text in four columns with woodcuts at top.</note>
+                  <note>Reproduction of original in: National Library of Scotland--Crawford Collections.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Love poetry, English --  England --  Early works to 1800.</term>
+               <term type="genre_form">Ballads --  England --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:212299:1"/>
+            <pb facs="tcp:212299:2"/>
+            <pb facs="tcp:212299:3"/>
+            <head>ROGER and MARY: Or, the loving Couple in a great Engagement,</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>Rogers</hi> true love to his <hi>Mary</hi>
+                  </l>
+                  <l>Did not in the least miscarry;</l>
+                  <l>He Souldier-like besieg'd and enter'd,</l>
+                  <l>And had the prize for which he ventur'd.</l>
+               </lg>
+            </argument>
+            <opener>Tune of Moggies Jealousie.</opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of a man</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a woman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>AS <hi>Roger</hi> and <hi>Mary</hi> were toyling</l>
+               <l>The length of a hot Summers day</l>
+               <l>A Raking and swetting and broyling,</l>
+               <l>And shaking and turning the Hay,</l>
+               <l>Quoth <hi>Roger, I</hi> prethee dear <hi>Mary</hi>
+               </l>
+               <l>Lets lay us down under this Cock</l>
+               <l>For <hi>I</hi> do begin to be weary</l>
+               <l>And there let us take a sweet nog</l>
+            </lg>
+            <lg>
+               <l>But first they examin'd the bottle</l>
+               <l>Before they begin to repose</l>
+               <l>And <hi>Mary</hi> was scrathing his noddle</l>
+               <l>And he was got under her cloths:</l>
+               <l>Good faith quoth he Mary i'le tell thee.</l>
+               <l>Tis woundy full hot in this place</l>
+               <l>For thou art ene all of a jelly</l>
+               <l>
+                  <hi>As plain as the nose on my Face.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Quoth <hi>Mary</hi> to help out the matter</l>
+               <l>The weather is hot you know that</l>
+               <l>Besides I am plumper and fatter</l>
+               <l>Then <hi>Sarah</hi> that little starv'd Rat</l>
+               <l>In all the hard Frost I can tell thee</l>
+               <l>The very same slippery place</l>
+               <l>Was never without a great jelly</l>
+               <l>
+                  <hi>As plain as the nose on your face.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>I thought the low Countries, quoth he then</l>
+               <l>Was all the time frozen i'le swear:</l>
+               <l>But you were mistoken,, quoth she then,</l>
+               <l>The devil a Frost e're came there,</l>
+               <l>when all elsewheee was frozen from rowing</l>
+               <l>And in a most pitiful case</l>
+               <l>That alwayes was open and flowing</l>
+               <l>
+                  <hi>As plain as the nose on your face.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I'm sure yet (quoth <hi>Hodge</hi> its all Boggy,</l>
+               <l>A Quagmire like shivering ground,</l>
+               <l>And still it is fulsome and foggy,</l>
+               <l>And for ever the place may be drown'd.</l>
+               <l>Quoth she, if a Sot have comandidg</l>
+               <l>The Country-may come to disgrace</l>
+               <l>And drown'd for a time notwithstanding,</l>
+               <l>
+                  <hi>As plain as the Nose in your Face.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As all this time <hi>Mary</hi> was groping</l>
+               <l>And fumbling about <hi>Rogers</hi> Head</l>
+               <l>The slures began for to open.</l>
+               <l>The gates of themselves they did spread:</l>
+               <l>Gods bobs then quoth <hi>Robin</hi> il'e tell it</l>
+               <l>And swear to it in any place,</l>
+               <l>The low Countries drown'd, I do smell it</l>
+               <l>
+                  <hi>As plain as the Nose on my Fa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then <hi>Roger</hi> his courage did rally,</l>
+               <l>And manfully fell to his work,</l>
+               <l>And at the main breach made a sally</l>
+               <l>And ply'd on his thrust like a Turk;</l>
+               <l>But <hi>Roger</hi> Alas was confounded.</l>
+               <l>The breach was so deep at that place,</l>
+               <l>That poor <hi>Roger</hi> quickly was drowned,</l>
+               <l>
+                  <hi>As plain as the Nose on his Face.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When <hi>Mary</hi> had sound the disaster,</l>
+               <l>That <hi>Roger</hi> could do no more work,</l>
+               <l>For <hi>Hodge</hi> decay'd faster and faster</l>
+               <l>And sneaking away he did lurk:</l>
+               <l>For which she was wondrous civil,</l>
+               <l>She would not the Lobcock disgrace,</l>
+               <l>But bid him go pack to the Devil,</l>
+               <l>
+                  <hi>As plain as the Nose on his Face.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON.</hi> Printed for P. Brooksby at the golden-ball in Pye-Corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
